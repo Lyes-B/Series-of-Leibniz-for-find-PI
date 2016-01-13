@@ -1,5 +1,5 @@
  /**
-  * Series of Leibniz for find PI
+  * Series of Leibniz to find PI
   * Made for educational purpose
   *
   *  Copyright (c) 2015-2016 Lyes Belhadj
@@ -24,9 +24,9 @@ int main()
 {
 	double Pi = 0.0, denominateur = 1.0;
 	int limite = 0;
-	const int iteration = 100000000; //This is the number of iteration that will make the program
+	const int iteration = 100000000; //This is the number of iteration that will make/execute the program
 
-	printf("Series of Leibniz for find PI - programming by Lyes Belhadj");
+	printf("Series of Leibniz to find PI - programming by Lyes Belhadj");
 	printf("\n\nSearch");
 
 	while(limite != iteration)
