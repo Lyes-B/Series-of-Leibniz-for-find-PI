@@ -39,9 +39,9 @@ int main()
 		limite++;
 
 		if(limite % (iteration/10) == 0)
-        {
-            printf(".");
-        }
+		{
+			printf(".");
+		}
 
 	}
 
