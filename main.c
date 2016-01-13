@@ -47,6 +47,6 @@ int main()
 
 	printf("\n\nPi = %.64g\n", Pi); //Disp number PI
 
-	system("pause");
 	return 0;
 }
+
