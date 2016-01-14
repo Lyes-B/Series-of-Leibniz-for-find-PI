@@ -17,6 +17,6 @@
    
 
 This program is the simple implementation in C language of the famous Series of Leibniz to find PI.
-For use this program you need a IDE or C compiler, you can use your own number of iteration and you can make all modification that you want. Just you must mention my name in your source code.
+For use this program you need a IDE or C compiler, you can use your own number of iteration and you can make all modification that you want. You just must mention my name in your source code.
 
 L.B
